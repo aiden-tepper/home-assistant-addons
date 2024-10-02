@@ -12,7 +12,7 @@ boot: "auto"
 host_network: true
 audio: true
 options:
-  airplay_name: "Hass.io"
+  airplay_name: "eggyolk"
   offset: "0.0"
   enabled: "no"
   mqtt_host: "core-mosquitto"
